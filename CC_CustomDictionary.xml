@@ -1,0 +1,38 @@
+<Dictionary>
+  <Words>
+     <Unrecognized>
+        <Word></Word>
+     </Unrecognized>
+     <Recognized>
+        <Word></Word>
+     </Recognized>
+     <Deprecated>
+        <Term PreferredAlternate=""></Term>
+     </Deprecated>
+     <Compound>
+        <Term CompoundAlternate=""></Term>
+     </Compound>
+     <DiscreteExceptions>
+        <Term></Term>
+     </DiscreteExceptions>
+  </Words>
+  <Acronyms>
+     <CasingExceptions>
+        <Acronym>LAR</Acronym>
+        <Acronym>DB</Acronym>
+        <Acronym>WKFS</Acronym>
+        <Acronym>ROC</Acronym>
+        <Acronym>HOEPA</Acronym>
+        <Acronym>MSA</Acronym>
+        <Acronym>HMZ4</Acronym>
+        <Acronym>HMDA</Acronym>
+        <Acronym>CRA</Acronym>
+        <Acronym>BUSI</Acronym>
+        <Acronym>SBFC</Acronym>
+        <Acronym>SQL</Acronym>
+        <Acronym>ID</Acronym>
+        <Acronym>US</Acronym>
+        <Acronym>XML</Acronym>
+     </CasingExceptions>
+  </Acronyms>
+</Dictionary>
